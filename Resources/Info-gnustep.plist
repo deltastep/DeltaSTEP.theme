@@ -1,0 +1,12 @@
+{
+	GSThemeAuthors = (
+		"Tim Sheridan"
+	);
+	GSThemeDetails = "DeltaSTEP theme";
+	GSThemeVersion = "0.0";
+	GSThemeDomain = {
+		NSMenuInterfaceStyle       = NSMacintoshInterfaceStyle;
+		NSScrollViewInterfaceStyle = NSMacintoshInterfaceStyle;
+		NSScrollerInterfaceStyle   = NSMacintoshInterfaceStyle;
+	};
+}
